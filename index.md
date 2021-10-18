@@ -3,6 +3,6 @@
 
 # Andreea Banulescu
 
-[Link](https://andreeabanulescu.github.io/GitHubPagesPersonalPage/) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-gifs&psig=AOvVaw35BnbintRndHAxqDTasKWU&ust=1634629176644000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCJij-6y60_MCFQAAAAAdAAAAABAEs)
+[Link](https://andreeabanulescu.github.io/GitHubPagesPersonalPage/) and ![Image](https://cdn.vox-cdn.com/thumbor/SiIyeqmKIJGcOJccz94pHgwmgvQ=/0x0:1400x1400/1200x800/filters:focal(588x588:812x812):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68837730/poptart1redrainbowfix_1.0.gif)
 ```
 
